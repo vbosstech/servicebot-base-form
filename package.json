@@ -1,5 +1,5 @@
 {
-  "name": "servicebot-base-form",
+  "name": "@eservices/servicebot-base-form",
   "version": "0.0.39",
   "dependencies": {
     "currency-symbol-map": "^4.0.4",
